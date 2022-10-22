@@ -1,5 +1,6 @@
 # mp1_comp
 
+What to do before running:
 1. Unzip the the package that's called models.zip in order to extract all the models that are used in this project, it's necessary that the models are in the same exact folder as the notebook. Here are the documents that are included in the models.zip and that necessary to run this notebook.
 -goemotions
 -GoogleNews-vectors-negative300.bin
